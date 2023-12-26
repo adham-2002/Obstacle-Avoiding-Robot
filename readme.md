@@ -31,6 +31,8 @@ This GitHub repository contains the code for an Arduino-based robot car project.
 1. Connect the ultrasonic sensors and motor control pins to the specified Arduino pins.
 2. Adjust motor speeds and angular velocities as needed.
 
+https://github.com/adham20022023/Obstacle-Avoiding-Robot/assets/90427660/50de577e-687b-4140-b621-52cce0a88e44
+
 ## Functions
 - `move_F()`: Move the car forward.
 - `move_B()`: Move the car backward.
