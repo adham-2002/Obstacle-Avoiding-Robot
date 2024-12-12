@@ -2,7 +2,8 @@
 
 This GitHub repository contains the code for an Arduino-based robot car project. The robot is equipped with ultrasonic sensors to detect obstacles and make decisions for navigation.
 
-<img width="328" alt="Screenshot 2023-12-26 151025" src="https://github.com/adham20022023/Obstacle-Avoiding-Robot/assets/90427660/a337fc90-c08b-44d2-9dc0-4d4494774910">
+![346345261-bc40e818-7e59-4426-8e68-252857017acb](https://github.com/user-attachments/assets/2caa747e-5ad8-4ab2-bf28-5a77dc125c06)
+
 
 ## Hardware Components
 - **Ultrasonic Sensors:**
